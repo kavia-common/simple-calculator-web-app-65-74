@@ -126,3 +126,22 @@ MIT License
 *(TODO: Review and update license as required)*
 
 ---
+
+## Licenses
+
+This project does not yet have a definitive license selection.
+
+> **TODO:** Please select and apply a license for this project (e.g., MIT, Apache-2.0, etc.).  
+> See below for common options:
+
+### MIT License
+
+A short and permissive open source license, allowing commercial use, modification, distribution, and private use with minimal requirements regarding attribution and inclusion of license notice.  
+- [MIT License Full Text](https://opensource.org/licenses/MIT)
+
+### Apache License 2.0
+
+A permissive open source license with explicit terms regarding sublicensing, patent rights, and contribution. It allows commercial use, modification, distribution, and private use, but with certain legal requirements (notably, patent grant and a NOTICE file for significant changes).
+- [Apache License 2.0 Full Text](https://www.apache.org/licenses/LICENSE-2.0)
+
+---
