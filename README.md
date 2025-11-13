@@ -8,6 +8,19 @@ Calculators are essential tools that aid in solving arithmetic operations quickl
 
 ---
 
+## History of Calculators
+
+- **Abacus (c. 2000 BCE):** One of the earliest known calculating devices, used in ancient Mesopotamia and later throughout Asia and Europe for basic arithmetic.
+- **Pascaline (1642):** Invented by Blaise Pascal, the Pascaline was a mechanical calculator capable of performing addition and subtraction using gears and dials.
+- **Leibniz Wheel (Stepped Reckoner, 1672):** Developed by Gottfried Wilhelm Leibniz, this improved mechanism enabled multiplication and division as well.
+- **Arithmometer (1820):** The first commercially successful mechanical calculator, invented by Charles Xavier Thomas de Colmar, brought calculators into popular business use.
+- **Mechanical Desktop Calculators (Late 19th–Mid 20th Century):** Various mechanical calculators—like the Comptometer and Monroe—became standard office equipment.
+- **Electronic Calculators (1960s):** Advancements in transistor and integrated circuit technology enabled the first electronic calculators, which were initially desk-sized.
+- **Handheld Calculators (1970s):** Devices like the HP-35 (1972) and TI-30 (1976) brought affordable, portable calculators to the public.
+- **Software & Digital Calculators (1980s–present):** With the rise of personal computers, smartphones, and web apps, software calculators became ubiquitous and multi-functional, accessible to everyone.
+
+---
+
 ## Features
 
 - Basic arithmetic operations (addition, subtraction, multiplication, division)
