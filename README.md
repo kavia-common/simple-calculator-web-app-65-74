@@ -131,7 +131,7 @@ MIT License
 
 This project does not yet have a definitive license selection.
 
-> **TODO:** Please select and apply a license for this project (e.g., MIT, Apache-2.0, etc.).  
+> **TODO:** Please select and apply a license for this project (e.g., MIT, Apache-2.0, GPL-3.0, etc.).  
 > See below for common options:
 
 ### MIT License
@@ -143,5 +143,16 @@ A short and permissive open source license, allowing commercial use, modificatio
 
 A permissive open source license with explicit terms regarding sublicensing, patent rights, and contribution. It allows commercial use, modification, distribution, and private use, but with certain legal requirements (notably, patent grant and a NOTICE file for significant changes).
 - [Apache License 2.0 Full Text](https://www.apache.org/licenses/LICENSE-2.0)
+
+### GNU General Public License v3.0 (GPL-3.0)
+
+A strong copyleft open source license that guarantees end users the freedom to use, modify, and distribute the software and its derivative works. Any derivative or combined work must also be distributed under the GPL-3.0, ensuring continued openness. Imposes certain obligations on distribution, including source code disclosure and preservation of license notices.
+- [GPL-3.0 License Full Text](https://www.gnu.org/licenses/gpl-3.0.html)
+
+#### Key Differences: MIT vs Apache-2.0 vs GPL-3.0
+
+- **MIT**: Highly permissive, minimal requirements—just attribution and original license inclusion. Allows proprietary derivative works with no copyleft requirements. No explicit patent protection.
+- **Apache-2.0**: Permissive license with explicit patent grant. Requires preservation of license, attribution, and NOTICE file if changes are made. Allows proprietary derivatives but offers more legal clarity and patent safety than MIT.
+- **GPL-3.0**: Strong copyleft license—any distribution of derivative works must also be under GPL-3.0. Requires source code disclosure for derivatives and combined works. Prohibits imposing further restrictions on recipients. All contributors grant a patent license. Not compatible for inclusion in proprietary/commercial closed-source products.
 
 ---
